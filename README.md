@@ -1,6 +1,5 @@
 راز تی‌تاپ
 ============
-enw master inn github
 
 
 mohammad branch change in git hubchan
